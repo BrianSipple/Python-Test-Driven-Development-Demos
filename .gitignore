@@ -3,3 +3,5 @@ __pycache__
 *.pyc
 db.sqlite3
 functional_tests/screendumps
+DS_Store
+Book-Resources
